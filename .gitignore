@@ -1,0 +1,19 @@
+# Compiled output
+*.o
+*.obj
+*.exe
+*.out
+a.out
+lobach
+
+# Build directory
+build/
+cmake-build-*/
+
+# IDE settings
+.idea/
+.vscode/
+*.swp
+
+# macOS
+.DS_Store
