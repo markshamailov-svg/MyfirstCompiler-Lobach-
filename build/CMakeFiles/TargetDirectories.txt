@@ -1,0 +1,3 @@
+/Users/olvimmark/Desktop/lobach/build/CMakeFiles/lobach.dir
+/Users/olvimmark/Desktop/lobach/build/CMakeFiles/edit_cache.dir
+/Users/olvimmark/Desktop/lobach/build/CMakeFiles/rebuild_cache.dir

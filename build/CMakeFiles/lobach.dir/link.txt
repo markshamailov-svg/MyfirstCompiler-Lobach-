@@ -1,0 +1,1 @@
+/usr/bin/cc  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/lobach.dir/main.c.o CMakeFiles/lobach.dir/lexer.c.o CMakeFiles/lobach.dir/parcer.c.o CMakeFiles/lobach.dir/generateC.c.o -o lobach
